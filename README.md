@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-uniswap-poolspy-mcp-badge.png)](https://mseep.ai/app/kukapay-uniswap-poolspy-mcp)
+
 # Uniswap PoolSpy MCP Server
 
 An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks — Ethereum, Base, Optimism, Arbitrum, Polygon, BNB Smart Chain (BSC), Avalanche, Celo, and Blast — providing real-time data for DeFi analysts, traders, and developers.
